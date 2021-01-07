@@ -13,7 +13,7 @@ function App() {
   // },[])
   return (
     <div className="App">
-      Hellow world from there.
+      Hellow world from update.
       {/* <h3>{val.message}</h3> */}
     </div>
   );
